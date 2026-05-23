@@ -1,0 +1,112 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or the derived catalogs from this repository,
+  please cite the methodology paper (Bibb 2026, PASP-102415) and this
+  software archive.
+type: software
+title: >-
+  sparc-shells-relaxed: Relaxed-Cap Shell Catalog with Constrained-Run
+  Validation and Multi-Body Decomposition under DGC Scaling
+version: 0.1.0
+date-released: 2026-05-23
+authors:
+  - given-names: Ron
+    family-names: Bibb
+    orcid: 'https://orcid.org/0009-0004-1153-2464'
+    affiliation: Independent Researcher
+abstract: >-
+  Analysis code, derived catalogs, and methodology validation outputs for
+  Paper III of the SPARC shells series. Extends the Paper I methodology by
+  relaxing the shell-width cap (σ/r) from 0.4 to 0.8, increasing the maximum
+  shell count from 2 to 5, adding hierarchical mass-to-light marginalization,
+  producing a constrained-during-fit companion catalog (DGC + Hill + 1%
+  M_central), and reporting implied IMBH populations under DGC scaling as
+  bookkeeping (one possible interpretation, with explicit caveats). Includes
+  per-galaxy strict↔relaxed classification across 102 baseline galaxies and
+  the primary 123-galaxy relaxed-cap catalog with multi-body decomposition
+  columns.
+repository-code: 'https://github.com/RonBibb/sparc-shells-relaxed'
+url: 'https://github.com/RonBibb/sparc-shells-relaxed'
+license: CC-BY-4.0
+keywords:
+  - dark matter
+  - galaxy rotation curves
+  - galaxy dynamics
+  - SPARC
+  - intermediate-mass black holes
+  - Bayesian model selection
+  - black hole-halo connection
+  - phenomenological models
+  - astrostatistics
+references:
+  - type: article
+    title: >-
+      Localized Residual Structure in SPARC Rotation Curves: A
+      Burkert-Backbone Model with BIC-Selected Shells
+    authors:
+      - given-names: Ron
+        family-names: Bibb
+    year: 2026
+    notes: >-
+      Paper I. Submitted to Publications of the Astronomical Society
+      of the Pacific (PASP-102415). Methodology foundation for the
+      present work.
+  - type: software
+    title: 'sparc-halo-shells (Paper I code archive, v7.2.0)'
+    authors:
+      - given-names: Ron
+        family-names: Bibb
+    doi: 10.5281/zenodo.20263016
+    year: 2026
+  - type: article
+    title: 'SPARC: Mass models for 175 disk galaxies with Spitzer photometry and accurate rotation curves'
+    authors:
+      - given-names: Federico
+        family-names: Lelli
+      - given-names: Stacy S.
+        family-names: McGaugh
+      - given-names: James M.
+        family-names: Schombert
+    journal: The Astronomical Journal
+    volume: 152
+    issue: 6
+    year: 2016
+    doi: 10.3847/0004-6256/152/6/157
+  - type: article
+    title: >-
+      A new, clean catalogue of extragalactic non-nuclear X-ray sources
+      in nearby galaxies
+    authors:
+      - given-names: D. J.
+        family-names: Walton
+      - given-names: A. D.
+        family-names: Mackenzie
+      - given-names: H.
+        family-names: Gully
+      - given-names: N. R.
+        family-names: Patel
+      - given-names: M. J.
+        family-names: Middleton
+      - given-names: P. A.
+        family-names: Roberts
+      - given-names: A. C.
+        family-names: Fabian
+    journal: Monthly Notices of the Royal Astronomical Society
+    volume: 509
+    issue: 2
+    year: 2022
+    doi: 10.1093/mnras/stab3001
+  - type: article
+    title: >-
+      Black hole mass scaling relations for spiral galaxies. II. M_BH-M_*,
+      sph
+    authors:
+      - given-names: Benjamin L.
+        family-names: Davis
+      - given-names: Alister W.
+        family-names: Graham
+      - given-names: Françoise
+        family-names: Combes
+    journal: The Astrophysical Journal
+    year: 2019
+    doi: 10.3847/1538-4357/ab4242

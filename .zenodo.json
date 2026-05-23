@@ -1,0 +1,72 @@
+{
+  "title": "sparc-shells-relaxed: Relaxed-Cap Shell Catalog with Constrained-Run Validation and Multi-Body Decomposition under DGC Scaling",
+  "description": "<p>Analysis code, derived catalogs, and methodology validation outputs for Paper III of the SPARC shells series. Extends the Paper I methodology (Bibb 2026, PASP-102415) by:</p><ul><li>Relaxing the shell-width cap (\u03c3/r) from 0.4 to 0.8 to address pegging in the strict-cap fits</li><li>Increasing the maximum shell count from 2 to 5</li><li>Adding hierarchical mass-to-light (\u03a5) marginalization to address the Paper I referee critique on NGC 5055 BIC behavior</li><li>Producing a constrained-during-fit companion catalog (DGC + Hill + 1% M_central) for interpretation-strength comparison</li><li>Reporting implied IMBH populations under DGC scaling as bookkeeping (one possible interpretation, presented with explicit caveats; the catalog does not claim DGC applies at sub-halo scales)</li><li>Categorizing shells by DGC compatibility (Tier A: n_BH \u2264 2 acceptable; Tier B/C: DGC-overbudget)</li><li>Cross-tracer validation work using Walton+ 2022 ULX positions, THINGS HI moment maps, and an NGC 5055 Chandra cross-match (scripts shared with the companion Paper IV repository)</li></ul><p>The repository includes the primary 123-galaxy relaxed-cap catalog with multi-body decomposition columns, an earlier 102-galaxy n\u22642 run for backward compatibility with Paper I, the Paper I strict-cap catalog for reference, the DGC + Hill + M_central constrained-during-fit run, and a per-galaxy strict\u2194relaxed classification (91 stable_adequate, 6 rescued, 5 still_failing of 102 baseline galaxies).</p><p>Status at v0.1.0: pre-writing snapshot for priority-stamping. Empirical work and methodology validation substantially complete; manuscript drafting pending.</p>",
+  "creators": [
+    {
+      "name": "Bibb, Ron",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0004-1153-2464"
+    }
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "dark matter",
+    "galaxy rotation curves",
+    "galaxy dynamics",
+    "SPARC",
+    "intermediate-mass black holes",
+    "Bayesian model selection",
+    "black hole-halo connection",
+    "phenomenological models",
+    "astrostatistics"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.20263016",
+      "relation": "isDerivedFrom",
+      "resource_type": "software",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/RonBibb/sparc-halo-shells",
+      "relation": "isDerivedFrom",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/RonBibb/sparc-halo-shell-reality",
+      "relation": "isPartOf",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/RonBibb/sparc-shells-imbh",
+      "relation": "isPartOf",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.3847/0004-6256/152/6/157",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1093/mnras/stab3001",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.3847/1538-4357/ab4242",
+      "relation": "references",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ],
+  "communities": [],
+  "version": "0.1.0",
+  "language": "eng"
+}
