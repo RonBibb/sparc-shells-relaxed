@@ -1,0 +1,1239 @@
+DGC-Hill-5shell fits log
+DGC: M_BH = 10^-37.785 * M_sh^4.35
+Hill: enabled=True, k=1.0
+Started: 2026-05-22 13:56:16
+========================================================================
+
+ESO079-G014 (T=4, V_flat=175, n_pts=15/15)
+  M_central estimate: 3.82e+07 M_sun (from V_flat=175.0)
+  Burk: BIC=18.73
+  NFW:  BIC=54.91
+  FW0: BIC=18.73
+  FW1: BIC=26.37
+  FW2: BIC=24.41
+  FW3: BIC=31.95
+  FW4: BIC=38.81
+  FW5: BIC=51.26
+  Best n_shells: 0 (naive: 0)
+
+ESO116-G012 (T=7, V_flat=109, n_pts=15/15)
+  M_central estimate: 4.78e+06 M_sun (from V_flat=109.1)
+  Burk: BIC=15.55
+  NFW:  BIC=35.81
+  FW0: BIC=15.55
+  FW1: BIC=18.51
+  FW2: BIC=24.82
+  FW3: BIC=32.05
+  FW4: BIC=41.33
+  FW5: BIC=59.66
+  Best n_shells: 0 (naive: 0)
+
+ESO563-G021 (T=4, V_flat=315, n_pts=27/30)
+  M_central estimate: 5.05e+08 M_sun (from V_flat=314.6)
+  Burk: BIC=174.66
+  NFW:  BIC=367.55
+  FW0: BIC=174.66
+  FW1: BIC=120.99
+  FW2: BIC=117.04
+  FW3: BIC=110.91
+  FW4: BIC=91.94
+  FW5: BIC=102.51
+  Best n_shells: 4 (naive: 4)
+
+F568-V1 (T=7, V_flat=112, n_pts=15/15)
+  M_central estimate: 5.43e+06 M_sun (from V_flat=112.3)
+  Burk: BIC=6.11
+  NFW:  BIC=8.24
+  FW0: BIC=6.11
+  FW1: BIC=14.07
+  FW2: BIC=21.95
+  FW3: BIC=29.88
+  FW4: BIC=38.03
+  FW5: BIC=46.32
+  Best n_shells: 0 (naive: 0)
+
+F571-8 (T=5, V_flat=140, n_pts=9/13)
+  M_central estimate: 1.42e+07 M_sun (from V_flat=139.7)
+  Burk: BIC=13.70
+  NFW:  BIC=27.75
+  FW0: BIC=13.70
+  FW1: BIC=16.43
+  FW2: BIC=21.36
+  FW3: BIC=27.45
+  FW4: BIC=31.13
+  FW5: BIC=43.02
+  Best n_shells: 0 (naive: 0)
+
+F571-V1 (T=7, V_flat=84, n_pts=7/7)
+  M_central estimate: 1.48e+06 M_sun (from V_flat=83.6)
+  Burk: BIC=4.05
+  NFW:  BIC=5.49
+  FW0: BIC=4.05
+  FW1: BIC=9.75
+  FW2: BIC=15.57
+  FW3: BIC=21.56
+  FW4: BIC=27.26
+  FW5: BIC=69.04
+  Best n_shells: 0 (naive: 0)
+
+F574-1 (T=7, V_flat=98, n_pts=14/14)
+  M_central estimate: 2.96e+06 M_sun (from V_flat=97.8)
+  Burk: BIC=6.41
+  NFW:  BIC=25.00
+  FW0: BIC=6.41
+  FW1: BIC=13.28
+  FW2: BIC=21.13
+  FW3: BIC=29.03
+  FW4: BIC=36.95
+  FW5: BIC=44.86
+  Best n_shells: 0 (naive: 0)
+
+F583-1 (T=9, V_flat=86, n_pts=25/25)
+  M_central estimate: 1.66e+06 M_sun (from V_flat=85.8)
+  Burk: BIC=10.92
+  NFW:  BIC=42.40
+  FW0: BIC=10.92
+  FW1: BIC=18.64
+  FW2: BIC=27.38
+  FW3: BIC=36.77
+  FW4: BIC=46.46
+  FW5: BIC=55.94
+  Best n_shells: 0 (naive: 0)
+
+IC2574 (T=9, V_flat=66, n_pts=34/34)
+  M_central estimate: 5.38e+05 M_sun (from V_flat=66.4)
+  Burk: BIC=48.87
+  NFW:  BIC=171.32
+  FW0: BIC=48.87
+  FW1: BIC=41.89
+  FW2: BIC=40.82
+  FW3: BIC=51.95
+  FW4: BIC=61.99
+  FW5: BIC=80.10
+  Best n_shells: 1 (naive: 2)
+
+IC4202 (T=4, V_flat=243, n_pts=29/32)
+  M_central estimate: 1.61e+08 M_sun (from V_flat=242.6)
+  Burk: BIC=92.24
+  NFW:  BIC=135.26
+  FW0: BIC=92.24
+  FW1: BIC=68.34
+  FW2: BIC=74.37
+  FW3: BIC=66.62
+  FW4: BIC=85.85
+  FW5: BIC=93.26
+  Best n_shells: 1 (naive: 3)
+
+NGC0024 (T=5, V_flat=106, n_pts=29/29)
+  M_central estimate: 4.27e+06 M_sun (from V_flat=106.3)
+  Burk: BIC=27.88
+  NFW:  BIC=31.88
+  FW0: BIC=27.88
+  FW1: BIC=23.18
+  FW2: BIC=27.55
+  FW3: BIC=37.94
+  FW4: BIC=47.58
+  FW5: BIC=58.10
+  Best n_shells: 0 (naive: 1)
+
+NGC0055 (T=9, V_flat=86, n_pts=21/21)
+  M_central estimate: 1.64e+06 M_sun (from V_flat=85.6)
+  Burk: BIC=15.26
+  NFW:  BIC=59.12
+  FW0: BIC=15.26
+  FW1: BIC=16.93
+  FW2: BIC=24.98
+  FW3: BIC=33.93
+  FW4: BIC=43.04
+  FW5: BIC=52.15
+  Best n_shells: 0 (naive: 0)
+
+NGC0100 (T=6, V_flat=88, n_pts=21/21)
+  M_central estimate: 1.87e+06 M_sun (from V_flat=88.1)
+  Burk: BIC=7.71
+  NFW:  BIC=20.47
+  FW0: BIC=7.71
+  FW1: BIC=16.45
+  FW2: BIC=24.81
+  FW3: BIC=33.91
+  FW4: BIC=43.05
+  FW5: BIC=52.21
+  Best n_shells: 0 (naive: 0)
+
+NGC0247 (T=7, V_flat=105, n_pts=26/26)
+  M_central estimate: 4.02e+06 M_sun (from V_flat=104.9)
+  Burk: BIC=99.49
+  NFW:  BIC=46.46
+  FW0: BIC=99.49
+  FW1: BIC=17.66
+  FW2: BIC=73.92
+  FW3: BIC=36.24
+  FW4: BIC=46.02
+  FW5: BIC=55.82
+  Best n_shells: 1 (naive: 1)
+
+NGC0289 (T=4, V_flat=163, n_pts=28/28)
+  M_central estimate: 2.80e+07 M_sun (from V_flat=163.0)
+  Burk: BIC=74.19
+  NFW:  BIC=57.43
+  FW0: BIC=74.19
+  FW1: BIC=75.31
+  FW2: BIC=88.76
+  FW3: BIC=96.89
+  FW4: BIC=109.34
+  FW5: BIC=119.67
+  Best n_shells: 0 (naive: 0)
+
+NGC0300 (T=7, V_flat=93, n_pts=25/25)
+  M_central estimate: 2.40e+06 M_sun (from V_flat=93.3)
+  Burk: BIC=19.85
+  NFW:  BIC=21.33
+  FW0: BIC=19.85
+  FW1: BIC=21.66
+  FW2: BIC=30.76
+  FW3: BIC=40.20
+  FW4: BIC=50.13
+  FW5: BIC=59.32
+  Best n_shells: 0 (naive: 0)
+
+NGC0801 (T=5, V_flat=220, n_pts=11/13)
+  M_central estimate: 1.05e+08 M_sun (from V_flat=220.1)
+  Burk: BIC=134.46
+  NFW:  BIC=72.80
+  FW0: BIC=134.46
+  FW1: BIC=33.77
+  FW2: BIC=31.97
+  FW3: BIC=40.43
+  FW4: BIC=46.38
+  FW5: BIC=43.66
+  Best n_shells: 1 (naive: 2)
+
+NGC0891 (T=3, V_flat=216, n_pts=14/18)
+  M_central estimate: 9.68e+07 M_sun (from V_flat=216.1)
+  Burk: BIC=38.14
+  NFW:  BIC=53.31
+  FW0: BIC=38.14
+  FW1: BIC=40.35
+  FW2: BIC=28.81
+  FW3: BIC=38.36
+  FW4: BIC=41.74
+  FW5: BIC=54.42
+  Best n_shells: 2 (naive: 2)
+
+NGC1003 (T=6, V_flat=110, n_pts=36/36)
+  M_central estimate: 4.92e+06 M_sun (from V_flat=109.8)
+  Burk: BIC=195.69
+  NFW:  BIC=94.46
+  FW0: BIC=195.69
+  FW1: BIC=180.14
+  FW2: BIC=53.56
+  FW3: BIC=63.84
+  FW4: BIC=74.51
+  FW5: BIC=90.16
+  Best n_shells: 2 (naive: 2)
+
+NGC1090 (T=4, V_flat=164, n_pts=22/24)
+  M_central estimate: 2.91e+07 M_sun (from V_flat=164.4)
+  Burk: BIC=43.94
+  NFW:  BIC=46.83
+  FW0: BIC=43.94
+  FW1: BIC=51.30
+  FW2: BIC=56.55
+  FW3: BIC=43.13
+  FW4: BIC=67.76
+  FW5: BIC=67.10
+  Best n_shells: 0 (naive: 3)
+
+NGC2403 (T=6, V_flat=131, n_pts=73/73)
+  M_central estimate: 1.08e+07 M_sun (from V_flat=131.2)
+  Burk: BIC=1359.61
+  NFW:  BIC=355.99
+  FW0: BIC=1359.61
+  FW1: BIC=193.63
+  FW2: BIC=186.24
+  FW3: BIC=95.65
+  FW4: BIC=216.71
+  FW5: BIC=119.03
+  Best n_shells: 3 (naive: 3)
+
+NGC2683 (T=3, V_flat=154, n_pts=11/11)
+  M_central estimate: 2.18e+07 M_sun (from V_flat=154.0)
+  Burk: BIC=11.02
+  NFW:  BIC=12.43
+  FW0: BIC=11.02
+  FW1: BIC=17.86
+  FW2: BIC=24.91
+  FW3: BIC=31.82
+  FW4: BIC=39.94
+  FW5: BIC=56.37
+  Best n_shells: 0 (naive: 0)
+
+NGC2841 (T=3, V_flat=285, n_pts=50/50)
+  M_central estimate: 3.26e+08 M_sun (from V_flat=284.8)
+  Burk: BIC=343.52
+  NFW:  BIC=168.15
+  FW0: BIC=343.52
+  FW1: BIC=356.23
+  FW2: BIC=275.06
+  FW3: BIC=233.80
+  FW4: BIC=244.56
+  FW5: BIC=247.83
+  Best n_shells: 3 (naive: 3)
+
+NGC2903 (T=4, V_flat=185, n_pts=29/34)
+  M_central estimate: 4.84e+07 M_sun (from V_flat=184.6)
+  Burk: BIC=59.03
+  NFW:  BIC=164.85
+  FW0: BIC=59.03
+  FW1: BIC=53.67
+  FW2: BIC=46.74
+  FW3: BIC=59.59
+  FW4: BIC=62.38
+  FW5: BIC=75.62
+  Best n_shells: 2 (naive: 2)
+
+NGC2976 (T=5, V_flat=85, n_pts=24/27)
+  M_central estimate: 1.63e+06 M_sun (from V_flat=85.4)
+  Burk: BIC=12.07
+  NFW:  BIC=39.03
+  FW0: BIC=12.07
+  FW1: BIC=21.59
+  FW2: BIC=30.88
+  FW3: BIC=40.66
+  FW4: BIC=50.20
+  FW5: BIC=59.82
+  Best n_shells: 0 (naive: 0)
+
+NGC2998 (T=5, V_flat=210, n_pts=13/13)
+  M_central estimate: 8.51e+07 M_sun (from V_flat=209.9)
+  Burk: BIC=66.25
+  NFW:  BIC=32.14
+  FW0: BIC=66.25
+  FW1: BIC=74.09
+  FW2: BIC=24.16
+  FW3: BIC=31.48
+  FW4: BIC=43.26
+  FW5: BIC=50.80
+  Best n_shells: 2 (naive: 2)
+
+NGC3109 (T=9, V_flat=66, n_pts=25/25)
+  M_central estimate: 5.31e+05 M_sun (from V_flat=66.2)
+  Burk: BIC=9.86
+  NFW:  BIC=158.95
+  FW0: BIC=9.86
+  FW1: BIC=19.20
+  FW2: BIC=27.24
+  FW3: BIC=38.51
+  FW4: BIC=47.37
+  FW5: BIC=57.82
+  Best n_shells: 0 (naive: 0)
+
+NGC3198 (T=5, V_flat=150, n_pts=40/43)
+  M_central estimate: 1.95e+07 M_sun (from V_flat=150.1)
+  Burk: BIC=75.31
+  NFW:  BIC=58.33
+  FW0: BIC=75.31
+  FW1: BIC=53.37
+  FW2: BIC=86.68
+  FW3: BIC=67.51
+  FW4: BIC=70.85
+  FW5: BIC=83.89
+  Best n_shells: 1 (naive: 1)
+
+NGC3521 (T=4, V_flat=214, n_pts=41/41)
+  M_central estimate: 9.21e+07 M_sun (from V_flat=213.7)
+  Burk: BIC=38.33
+  NFW:  BIC=20.17
+  FW0: BIC=38.33
+  FW1: BIC=20.78
+  FW2: BIC=31.07
+  FW3: BIC=42.47
+  FW4: BIC=53.00
+  FW5: BIC=64.15
+  Best n_shells: 1 (naive: 1)
+
+NGC3726 (T=5, V_flat=168, n_pts=12/12)
+  M_central estimate: 3.20e+07 M_sun (from V_flat=168.0)
+  Burk: BIC=29.21
+  NFW:  BIC=25.40
+  FW0: BIC=29.21
+  FW1: BIC=35.22
+  FW2: BIC=37.99
+  FW3: BIC=32.45
+  FW4: BIC=57.36
+  FW5: BIC=83.27
+  Best n_shells: 0 (naive: 0)
+
+NGC3769 (T=3, V_flat=119, n_pts=11/12)
+  M_central estimate: 6.91e+06 M_sun (from V_flat=118.6)
+  Burk: BIC=10.44
+  NFW:  BIC=13.02
+  FW0: BIC=10.44
+  FW1: BIC=15.58
+  FW2: BIC=20.72
+  FW3: BIC=26.96
+  FW4: BIC=37.05
+  FW5: BIC=42.63
+  Best n_shells: 0 (naive: 0)
+
+NGC3877 (T=5, V_flat=168, n_pts=11/13)
+  M_central estimate: 3.23e+07 M_sun (from V_flat=168.4)
+  Burk: BIC=11.89
+  NFW:  BIC=12.56
+  FW0: BIC=11.89
+  FW1: BIC=15.71
+  FW2: BIC=20.58
+  FW3: BIC=48.16
+  FW4: BIC=52.40
+  FW5: BIC=42.14
+  Best n_shells: 0 (naive: 0)
+
+NGC3893 (T=5, V_flat=174, n_pts=10/10)
+  M_central estimate: 3.73e+07 M_sun (from V_flat=174.0)
+  Burk: BIC=7.43
+  NFW:  BIC=13.48
+  FW0: BIC=7.43
+  FW1: BIC=12.74
+  FW2: BIC=19.59
+  FW3: BIC=26.14
+  FW4: BIC=32.67
+  FW5: BIC=39.74
+  Best n_shells: 0 (naive: 0)
+
+NGC3917 (T=6, V_flat=136, n_pts=16/17)
+  M_central estimate: 1.26e+07 M_sun (from V_flat=135.9)
+  Burk: BIC=14.47
+  NFW:  BIC=34.79
+  FW0: BIC=14.47
+  FW1: BIC=15.63
+  FW2: BIC=23.16
+  FW3: BIC=31.25
+  FW4: BIC=39.08
+  FW5: BIC=52.13
+  Best n_shells: 0 (naive: 0)
+
+NGC3949 (T=4, V_flat=163, n_pts=7/7)
+  M_central estimate: 2.80e+07 M_sun (from V_flat=163.0)
+  Burk: BIC=5.98
+  NFW:  BIC=6.65
+  FW0: BIC=5.98
+  FW1: BIC=10.78
+  FW2: BIC=16.43
+  FW3: BIC=22.24
+  FW4: BIC=27.77
+  FW5: BIC=34.77
+  Best n_shells: 0 (naive: 0)
+
+NGC3953 (T=4, V_flat=221, n_pts=8/8)
+  M_central estimate: 1.06e+08 M_sun (from V_flat=220.8)
+  Burk: BIC=5.26
+  NFW:  BIC=5.76
+  FW0: BIC=5.26
+  FW1: BIC=11.31
+  FW2: BIC=17.32
+  FW3: BIC=23.42
+  FW4: BIC=29.76
+  FW5: BIC=35.58
+  Best n_shells: 0 (naive: 0)
+
+NGC3972 (T=4, V_flat=133, n_pts=10/10)
+  M_central estimate: 1.13e+07 M_sun (from V_flat=132.7)
+  Burk: BIC=10.90
+  NFW:  BIC=13.77
+  FW0: BIC=10.90
+  FW1: BIC=12.96
+  FW2: BIC=19.02
+  FW3: BIC=26.31
+  FW4: BIC=33.47
+  FW5: BIC=39.14
+  Best n_shells: 0 (naive: 0)
+
+NGC3992 (T=4, V_flat=241, n_pts=9/9)
+  M_central estimate: 1.56e+08 M_sun (from V_flat=241.0)
+  Burk: BIC=9.36
+  NFW:  BIC=7.30
+  FW0: BIC=9.36
+  FW1: BIC=15.09
+  FW2: BIC=22.36
+  FW3: BIC=26.98
+  FW4: BIC=33.50
+  FW5: BIC=40.09
+  Best n_shells: 0 (naive: 0)
+
+NGC4010 (T=7, V_flat=126, n_pts=12/12)
+  M_central estimate: 8.95e+06 M_sun (from V_flat=125.8)
+  Burk: BIC=19.57
+  NFW:  BIC=27.41
+  FW0: BIC=19.57
+  FW1: BIC=22.33
+  FW2: BIC=33.16
+  FW3: BIC=33.44
+  FW4: BIC=38.79
+  FW5: BIC=44.21
+  Best n_shells: 0 (naive: 0)
+
+NGC4013 (T=3, V_flat=173, n_pts=36/36)
+  M_central estimate: 3.63e+07 M_sun (from V_flat=172.9)
+  Burk: BIC=68.60
+  NFW:  BIC=40.96
+  FW0: BIC=68.60
+  FW1: BIC=75.59
+  FW2: BIC=53.20
+  FW3: BIC=80.09
+  FW4: BIC=88.74
+  FW5: BIC=85.83
+  Best n_shells: 2 (naive: 2)
+
+NGC4051 (T=4, V_flat=157, n_pts=7/7)
+  M_central estimate: 2.37e+07 M_sun (from V_flat=157.0)
+  Burk: BIC=6.99
+  NFW:  BIC=7.85
+  FW0: BIC=6.99
+  FW1: BIC=10.98
+  FW2: BIC=16.62
+  FW3: BIC=22.79
+  FW4: BIC=27.75
+  FW5: BIC=34.89
+  Best n_shells: 0 (naive: 0)
+
+NGC4085 (T=5, V_flat=132, n_pts=5/7)
+  M_central estimate: 1.09e+07 M_sun (from V_flat=131.5)
+  Burk: BIC=4.48
+  NFW:  BIC=4.58
+  FW0: BIC=4.48
+  FW1: BIC=8.61
+  FW2: BIC=14.15
+  FW3: BIC=19.11
+  FW4: BIC=23.81
+  FW5: BIC=28.50
+  Best n_shells: 0 (naive: 0)
+
+NGC4088 (T=4, V_flat=172, n_pts=9/12)
+  M_central estimate: 3.52e+07 M_sun (from V_flat=171.7)
+  Burk: BIC=6.09
+  NFW:  BIC=14.15
+  FW0: BIC=6.09
+  FW1: BIC=12.64
+  FW2: BIC=19.23
+  FW3: BIC=28.54
+  FW4: BIC=32.45
+  FW5: BIC=41.25
+  Best n_shells: 0 (naive: 0)
+
+NGC4100 (T=4, V_flat=158, n_pts=24/24)
+  M_central estimate: 2.45e+07 M_sun (from V_flat=158.2)
+  Burk: BIC=19.85
+  NFW:  BIC=25.23
+  FW0: BIC=19.85
+  FW1: BIC=28.25
+  FW2: BIC=37.78
+  FW3: BIC=39.01
+  FW4: BIC=55.71
+  FW5: BIC=70.53
+  Best n_shells: 0 (naive: 0)
+
+NGC4157 (T=3, V_flat=185, n_pts=15/17)
+  M_central estimate: 4.85e+07 M_sun (from V_flat=184.7)
+  Burk: BIC=8.97
+  NFW:  BIC=6.93
+  FW0: BIC=8.97
+  FW1: BIC=14.26
+  FW2: BIC=22.38
+  FW3: BIC=30.50
+  FW4: BIC=38.48
+  FW5: BIC=46.76
+  Best n_shells: 0 (naive: 0)
+
+NGC4183 (T=6, V_flat=111, n_pts=23/23)
+  M_central estimate: 5.08e+06 M_sun (from V_flat=110.6)
+  Burk: BIC=14.34
+  NFW:  BIC=9.83
+  FW0: BIC=14.34
+  FW1: BIC=20.96
+  FW2: BIC=27.60
+  FW3: BIC=36.62
+  FW4: BIC=45.80
+  FW5: BIC=54.79
+  Best n_shells: 0 (naive: 0)
+
+NGC4217 (T=3, V_flat=181, n_pts=11/19)
+  M_central estimate: 4.47e+07 M_sun (from V_flat=181.3)
+  Burk: BIC=10.26
+  NFW:  BIC=11.83
+  FW0: BIC=10.26
+  FW1: BIC=17.02
+  FW2: BIC=24.65
+  FW3: BIC=27.72
+  FW4: BIC=38.90
+  FW5: BIC=42.53
+  Best n_shells: 0 (naive: 0)
+
+NGC4559 (T=6, V_flat=121, n_pts=32/32)
+  M_central estimate: 7.60e+06 M_sun (from V_flat=121.2)
+  Burk: BIC=14.31
+  NFW:  BIC=18.64
+  FW0: BIC=14.31
+  FW1: BIC=23.78
+  FW2: BIC=34.69
+  FW3: BIC=44.05
+  FW4: BIC=50.68
+  FW5: BIC=64.42
+  Best n_shells: 0 (naive: 0)
+
+NGC5005 (T=4, V_flat=262, n_pts=13/18)
+  M_central estimate: 2.27e+08 M_sun (from V_flat=262.2)
+  Burk: BIC=5.47
+  NFW:  BIC=6.78
+  FW0: BIC=5.47
+  FW1: BIC=12.93
+  FW2: BIC=20.57
+  FW3: BIC=28.26
+  FW4: BIC=36.03
+  FW5: BIC=43.73
+  Best n_shells: 0 (naive: 0)
+
+NGC5033 (T=5, V_flat=194, n_pts=20/22)
+  M_central estimate: 6.05e+07 M_sun (from V_flat=194.2)
+  Burk: BIC=50.53
+  NFW:  BIC=87.27
+  FW0: BIC=50.53
+  FW1: BIC=58.18
+  FW2: BIC=54.84
+  FW3: BIC=62.22
+  FW4: BIC=80.71
+  FW5: BIC=78.80
+  Best n_shells: 0 (naive: 0)
+
+NGC5055 (T=4, V_flat=179, n_pts=22/28)
+  M_central estimate: 4.22e+07 M_sun (from V_flat=179.0)
+  Burk: BIC=196.76
+  NFW:  BIC=610.29
+  FW0: BIC=196.76
+  FW1: BIC=178.32
+  FW2: BIC=84.12
+  FW3: BIC=75.80
+  FW4: BIC=83.36
+  FW5: BIC=103.55
+  Best n_shells: 3 (naive: 3)
+
+NGC5371 (T=4, V_flat=210, n_pts=19/19)
+  M_central estimate: 8.44e+07 M_sun (from V_flat=209.5)
+  FW1: NO FIT (Hill rejected)
+  Burk: BIC=214.30
+  NFW:  BIC=155.81
+  FW0: BIC=214.30
+  FW1: BIC=inf
+  FW2: BIC=188.70
+  FW3: BIC=148.30
+  FW4: BIC=54.62
+  FW5: BIC=63.34
+  Best n_shells: 4 (naive: 4)
+
+NGC5585 (T=7, V_flat=90, n_pts=24/24)
+  M_central estimate: 2.08e+06 M_sun (from V_flat=90.3)
+  Burk: BIC=120.14
+  NFW:  BIC=162.08
+  FW0: BIC=120.14
+  FW1: BIC=86.20
+  FW2: BIC=95.57
+  FW3: BIC=98.66
+  FW4: BIC=105.67
+  FW5: BIC=114.58
+  Best n_shells: 1 (naive: 1)
+
+NGC5907 (T=5, V_flat=215, n_pts=19/19)
+  M_central estimate: 9.46e+07 M_sun (from V_flat=215.0)
+  Burk: BIC=177.34
+  NFW:  BIC=102.96
+  FW0: BIC=177.34
+  FW1: BIC=167.91
+  FW2: BIC=149.62
+  FW3: BIC=146.36
+  FW4: BIC=100.68
+  FW5: BIC=109.57
+  Best n_shells: 4 (naive: 4)
+
+NGC5985 (T=3, V_flat=294, n_pts=33/33)
+  M_central estimate: 3.73e+08 M_sun (from V_flat=293.6)
+  Burk: BIC=118.89
+  NFW:  BIC=88.49
+  FW0: BIC=118.89
+  FW1: BIC=121.37
+  FW2: BIC=116.07
+  FW3: BIC=141.73
+  FW4: BIC=126.73
+  FW5: BIC=127.48
+  Best n_shells: 0 (naive: 2)
+
+NGC6015 (T=6, V_flat=154, n_pts=44/44)
+  M_central estimate: 2.19e+07 M_sun (from V_flat=154.1)
+  Burk: BIC=669.36
+  NFW:  BIC=355.47
+  FW0: BIC=669.36
+  FW1: BIC=639.91
+  FW2: BIC=61.05
+  FW3: BIC=174.24
+  FW4: BIC=84.40
+  FW5: BIC=95.12
+  Best n_shells: 2 (naive: 2)
+
+NGC6195 (T=3, V_flat=252, n_pts=20/23)
+  M_central estimate: 1.89e+08 M_sun (from V_flat=251.7)
+  Burk: BIC=37.94
+  NFW:  BIC=23.97
+  FW0: BIC=37.94
+  FW1: BIC=21.23
+  FW2: BIC=29.71
+  FW3: BIC=38.66
+  FW4: BIC=48.33
+  FW5: BIC=56.68
+  Best n_shells: 1 (naive: 1)
+
+NGC6503 (T=6, V_flat=116, n_pts=31/31)
+  M_central estimate: 6.34e+06 M_sun (from V_flat=116.3)
+  Burk: BIC=80.73
+  NFW:  BIC=63.07
+  FW0: BIC=80.73
+  FW1: BIC=38.12
+  FW2: BIC=41.50
+  FW3: BIC=48.97
+  FW4: BIC=59.63
+  FW5: BIC=68.31
+  Best n_shells: 1 (naive: 1)
+
+NGC6674 (T=3, V_flat=241, n_pts=15/15)
+  M_central estimate: 1.57e+08 M_sun (from V_flat=241.3)
+  Burk: BIC=282.37
+  NFW:  BIC=182.28
+  FW0: BIC=282.37
+  FW1: BIC=290.50
+  FW2: BIC=298.29
+  FW3: BIC=374.49
+  FW4: BIC=283.04
+  FW5: BIC=283.24
+  Best n_shells: 0 (naive: 0)
+
+NGC6946 (T=6, V_flat=159, n_pts=55/58)
+  M_central estimate: 2.50e+07 M_sun (from V_flat=158.9)
+  Burk: BIC=71.24
+  NFW:  BIC=109.22
+  FW0: BIC=71.24
+  FW1: BIC=51.40
+  FW2: BIC=50.01
+  FW3: BIC=55.87
+  FW4: BIC=74.20
+  FW5: BIC=79.57
+  Best n_shells: 1 (naive: 2)
+
+NGC7331 (T=3, V_flat=239, n_pts=28/36)
+  M_central estimate: 1.51e+08 M_sun (from V_flat=239.0)
+  Burk: BIC=18.88
+  NFW:  BIC=21.78
+  FW0: BIC=18.88
+  FW1: BIC=25.12
+  FW2: BIC=33.46
+  FW3: BIC=44.06
+  FW4: BIC=54.87
+  FW5: BIC=62.24
+  Best n_shells: 0 (naive: 0)
+
+NGC7814 (T=2, V_flat=219, n_pts=16/18)
+  M_central estimate: 1.02e+08 M_sun (from V_flat=218.9)
+  Burk: BIC=15.48
+  NFW:  BIC=19.13
+  FW0: BIC=15.48
+  FW1: BIC=21.36
+  FW2: BIC=25.85
+  FW3: BIC=32.63
+  FW4: BIC=40.73
+  FW5: BIC=47.51
+  Best n_shells: 0 (naive: 0)
+
+UGC00128 (T=8, V_flat=129, n_pts=22/22)
+  M_central estimate: 1.01e+07 M_sun (from V_flat=129.3)
+  Burk: BIC=150.24
+  NFW:  BIC=56.63
+  FW0: BIC=150.24
+  FW1: BIC=150.65
+  FW2: BIC=92.64
+  FW3: BIC=79.67
+  FW4: BIC=118.62
+  FW5: BIC=97.13
+  Best n_shells: 3 (naive: 3)
+
+UGC01281 (T=8, V_flat=55, n_pts=25/25)
+  M_central estimate: 2.39e+05 M_sun (from V_flat=55.2)
+  Burk: BIC=10.32
+  NFW:  BIC=28.11
+  FW0: BIC=10.32
+  FW1: BIC=18.90
+  FW2: BIC=26.12
+  FW3: BIC=35.78
+  FW4: BIC=45.43
+  FW5: BIC=55.10
+  Best n_shells: 0 (naive: 0)
+
+UGC02259 (T=8, V_flat=86, n_pts=8/8)
+  M_central estimate: 1.70e+06 M_sun (from V_flat=86.2)
+  Burk: BIC=18.00
+  NFW:  BIC=8.40
+  FW0: BIC=18.00
+  FW1: BIC=10.54
+  FW2: BIC=16.70
+  FW3: BIC=22.91
+  FW4: BIC=45.08
+  FW5: BIC=37.89
+  Best n_shells: 1 (naive: 1)
+
+UGC02885 (T=5, V_flat=290, n_pts=19/19)
+  M_central estimate: 3.50e+08 M_sun (from V_flat=289.5)
+  Burk: BIC=81.14
+  NFW:  BIC=50.08
+  FW0: BIC=81.14
+  FW1: BIC=26.39
+  FW2: BIC=33.38
+  FW3: BIC=44.06
+  FW4: BIC=53.41
+  FW5: BIC=65.14
+  Best n_shells: 1 (naive: 1)
+
+UGC02916 (T=2, V_flat=183, n_pts=32/43)
+  M_central estimate: 4.62e+07 M_sun (from V_flat=182.7)
+  Burk: BIC=97.19
+  NFW:  BIC=160.78
+  FW0: BIC=97.19
+  FW1: BIC=74.69
+  FW2: BIC=65.08
+  FW3: BIC=57.04
+  FW4: BIC=91.62
+  FW5: BIC=73.45
+  Best n_shells: 3 (naive: 3)
+
+UGC02953 (T=2, V_flat=265, n_pts=106/115)
+  M_central estimate: 2.37e+08 M_sun (from V_flat=264.9)
+  Burk: BIC=1132.04
+  NFW:  BIC=605.97
+  FW0: BIC=1132.04
+  FW1: BIC=930.49
+  FW2: BIC=588.39
+  FW3: BIC=634.91
+  FW4: BIC=384.48
+  FW5: BIC=337.35
+  Best n_shells: 5 (naive: 5)
+
+UGC03205 (T=2, V_flat=220, n_pts=46/48)
+  M_central estimate: 1.04e+08 M_sun (from V_flat=219.6)
+  Burk: BIC=341.15
+  NFW:  BIC=186.48
+  FW0: BIC=341.15
+  FW1: BIC=313.03
+  FW2: BIC=210.04
+  FW3: BIC=227.42
+  FW4: BIC=206.65
+  FW5: BIC=104.82
+  Best n_shells: 5 (naive: 5)
+
+UGC04278 (T=7, V_flat=91, n_pts=25/25)
+  M_central estimate: 2.19e+06 M_sun (from V_flat=91.4)
+  Burk: BIC=21.33
+  NFW:  BIC=36.23
+  FW0: BIC=21.33
+  FW1: BIC=23.90
+  FW2: BIC=28.91
+  FW3: BIC=36.15
+  FW4: BIC=54.62
+  FW5: BIC=55.36
+  Best n_shells: 0 (naive: 0)
+
+UGC04325 (T=9, V_flat=91, n_pts=8/8)
+  M_central estimate: 2.14e+06 M_sun (from V_flat=90.9)
+  Burk: BIC=6.63
+  NFW:  BIC=21.37
+  FW0: BIC=6.63
+  FW1: BIC=10.51
+  FW2: BIC=16.64
+  FW3: BIC=23.06
+  FW4: BIC=29.95
+  FW5: BIC=42.34
+  Best n_shells: 0 (naive: 0)
+
+UGC04499 (T=8, V_flat=73, n_pts=9/9)
+  M_central estimate: 8.06e+05 M_sun (from V_flat=72.8)
+  Burk: BIC=6.10
+  NFW:  BIC=11.71
+  FW0: BIC=6.10
+  FW1: BIC=11.50
+  FW2: BIC=17.86
+  FW3: BIC=62.49
+  FW4: BIC=32.55
+  FW5: BIC=58.64
+  Best n_shells: 0 (naive: 0)
+
+UGC05253 (T=2, V_flat=214, n_pts=73/73)
+  M_central estimate: 9.21e+07 M_sun (from V_flat=213.7)
+  Burk: BIC=108.79
+  NFW:  BIC=440.21
+  FW0: BIC=108.79
+  FW1: BIC=89.18
+  FW2: BIC=82.20
+  FW3: BIC=85.67
+  FW4: BIC=98.61
+  FW5: BIC=127.79
+  Best n_shells: 2 (naive: 2)
+
+UGC05716 (T=9, V_flat=73, n_pts=12/12)
+  M_central estimate: 8.21e+05 M_sun (from V_flat=73.1)
+  Burk: BIC=30.45
+  NFW:  BIC=17.81
+  FW0: BIC=30.45
+  FW1: BIC=20.82
+  FW2: BIC=26.52
+  FW3: BIC=27.37
+  FW4: BIC=40.41
+  FW5: BIC=47.04
+  Best n_shells: 1 (naive: 1)
+
+UGC05721 (T=7, V_flat=80, n_pts=23/23)
+  M_central estimate: 1.20e+06 M_sun (from V_flat=79.7)
+  Burk: BIC=14.52
+  NFW:  BIC=26.51
+  FW0: BIC=14.52
+  FW1: BIC=22.36
+  FW2: BIC=27.18
+  FW3: BIC=36.58
+  FW4: BIC=45.99
+  FW5: BIC=55.40
+  Best n_shells: 0 (naive: 0)
+
+UGC05986 (T=9, V_flat=113, n_pts=15/15)
+  M_central estimate: 5.58e+06 M_sun (from V_flat=113.0)
+  Burk: BIC=16.74
+  NFW:  BIC=80.95
+  FW0: BIC=16.74
+  FW1: BIC=15.71
+  FW2: BIC=23.27
+  FW3: BIC=31.39
+  FW4: BIC=39.46
+  FW5: BIC=46.51
+  Best n_shells: 0 (naive: 1)
+
+UGC06399 (T=9, V_flat=85, n_pts=9/9)
+  M_central estimate: 1.59e+06 M_sun (from V_flat=85.0)
+  Burk: BIC=4.72
+  NFW:  BIC=9.00
+  FW0: BIC=4.72
+  FW1: BIC=11.22
+  FW2: BIC=17.79
+  FW3: BIC=24.50
+  FW4: BIC=31.21
+  FW5: BIC=37.84
+  Best n_shells: 0 (naive: 0)
+
+UGC06446 (T=7, V_flat=82, n_pts=17/17)
+  M_central estimate: 1.38e+06 M_sun (from V_flat=82.2)
+  Burk: BIC=12.41
+  NFW:  BIC=8.89
+  FW0: BIC=12.41
+  FW1: BIC=15.17
+  FW2: BIC=23.05
+  FW3: BIC=31.26
+  FW4: BIC=39.87
+  FW5: BIC=48.56
+  Best n_shells: 0 (naive: 0)
+
+UGC06667 (T=6, V_flat=84, n_pts=9/9)
+  M_central estimate: 1.50e+06 M_sun (from V_flat=83.8)
+  Burk: BIC=5.05
+  NFW:  BIC=13.54
+  FW0: BIC=5.05
+  FW1: BIC=11.33
+  FW2: BIC=17.65
+  FW3: BIC=24.96
+  FW4: BIC=31.50
+  FW5: BIC=39.23
+  Best n_shells: 0 (naive: 0)
+
+UGC06787 (T=2, V_flat=248, n_pts=55/71)
+  M_central estimate: 1.78e+08 M_sun (from V_flat=248.1)
+  Burk: BIC=1795.49
+  NFW:  BIC=1501.42
+  FW0: BIC=1795.49
+  FW1: BIC=1635.64
+  FW2: BIC=1396.74
+  FW3: BIC=1462.32
+  FW4: BIC=1217.01
+  FW5: BIC=492.28
+  Best n_shells: 5 (naive: 5)
+
+UGC06818 (T=9, V_flat=71, n_pts=8/8)
+  M_central estimate: 7.31e+05 M_sun (from V_flat=71.2)
+  Burk: BIC=11.42
+  NFW:  BIC=25.70
+  FW0: BIC=11.42
+  FW1: BIC=11.29
+  FW2: BIC=23.90
+  FW3: BIC=37.42
+  FW4: BIC=38.57
+  FW5: BIC=47.32
+  Best n_shells: 0 (naive: 1)
+
+UGC06917 (T=9, V_flat=109, n_pts=11/11)
+  M_central estimate: 4.71e+06 M_sun (from V_flat=108.7)
+  Burk: BIC=6.56
+  NFW:  BIC=12.03
+  FW0: BIC=6.56
+  FW1: BIC=13.15
+  FW2: BIC=20.19
+  FW3: BIC=26.49
+  FW4: BIC=33.57
+  FW5: BIC=40.83
+  Best n_shells: 0 (naive: 0)
+
+UGC06930 (T=7, V_flat=107, n_pts=10/10)
+  M_central estimate: 4.43e+06 M_sun (from V_flat=107.2)
+  Burk: BIC=6.01
+  NFW:  BIC=6.82
+  FW0: BIC=6.01
+  FW1: BIC=11.58
+  FW2: BIC=18.48
+  FW3: BIC=25.39
+  FW4: BIC=32.38
+  FW5: BIC=60.99
+  Best n_shells: 0 (naive: 0)
+
+UGC06983 (T=6, V_flat=109, n_pts=17/17)
+  M_central estimate: 4.76e+06 M_sun (from V_flat=109.0)
+  Burk: BIC=12.02
+  NFW:  BIC=14.62
+  FW0: BIC=12.02
+  FW1: BIC=15.54
+  FW2: BIC=23.28
+  FW3: BIC=31.81
+  FW4: BIC=40.20
+  FW5: BIC=48.71
+  Best n_shells: 0 (naive: 0)
+
+UGC07125 (T=9, V_flat=65, n_pts=13/13)
+  M_central estimate: 4.96e+05 M_sun (from V_flat=65.2)
+  Burk: BIC=7.84
+  NFW:  BIC=14.52
+  FW0: BIC=7.84
+  FW1: BIC=14.89
+  FW2: BIC=22.23
+  FW3: BIC=30.12
+  FW4: BIC=1317.94
+  FW5: BIC=56.14
+  Best n_shells: 0 (naive: 0)
+
+UGC07151 (T=6, V_flat=74, n_pts=11/11)
+  M_central estimate: 8.41e+05 M_sun (from V_flat=73.5)
+  Burk: BIC=12.95
+  NFW:  BIC=31.11
+  FW0: BIC=12.95
+  FW1: BIC=15.90
+  FW2: BIC=26.70
+  FW3: BIC=33.51
+  FW4: BIC=52.95
+  FW5: BIC=81.49
+  Best n_shells: 0 (naive: 0)
+
+UGC07261 (T=8, V_flat=75, n_pts=7/7)
+  M_central estimate: 9.03e+05 M_sun (from V_flat=74.7)
+  Burk: BIC=5.75
+  NFW:  BIC=4.14
+  FW0: BIC=5.75
+  FW1: BIC=9.75
+  FW2: BIC=15.63
+  FW3: BIC=22.69
+  FW4: BIC=27.27
+  FW5: BIC=34.34
+  Best n_shells: 0 (naive: 0)
+
+UGC07399 (T=8, V_flat=103, n_pts=10/10)
+  M_central estimate: 3.71e+06 M_sun (from V_flat=103.0)
+  Burk: BIC=11.69
+  NFW:  BIC=12.71
+  FW0: BIC=11.69
+  FW1: BIC=11.61
+  FW2: BIC=18.47
+  FW3: BIC=25.38
+  FW4: BIC=32.29
+  FW5: BIC=39.47
+  Best n_shells: 0 (naive: 1)
+
+UGC07524 (T=9, V_flat=80, n_pts=31/31)
+  M_central estimate: 1.19e+06 M_sun (from V_flat=79.5)
+  Burk: BIC=13.63
+  NFW:  BIC=30.27
+  FW0: BIC=13.63
+  FW1: BIC=22.28
+  FW2: BIC=32.56
+  FW3: BIC=39.13
+  FW4: BIC=53.18
+  FW5: BIC=61.46
+  Best n_shells: 0 (naive: 0)
+
+UGC07603 (T=7, V_flat=62, n_pts=12/12)
+  M_central estimate: 3.87e+05 M_sun (from V_flat=61.6)
+  FW4: NO FIT (Hill rejected)
+  Burk: BIC=7.00
+  NFW:  BIC=20.12
+  FW0: BIC=7.00
+  FW1: BIC=12.71
+  FW2: BIC=20.17
+  FW3: BIC=29.34
+  FW4: BIC=inf
+  FW5: BIC=480.21
+  Best n_shells: 0 (naive: 0)
+
+UGC08286 (T=6, V_flat=82, n_pts=17/17)
+  M_central estimate: 1.39e+06 M_sun (from V_flat=82.4)
+  Burk: BIC=24.24
+  NFW:  BIC=42.45
+  FW0: BIC=24.24
+  FW1: BIC=14.50
+  FW2: BIC=22.89
+  FW3: BIC=31.43
+  FW4: BIC=39.90
+  FW5: BIC=48.41
+  Best n_shells: 1 (naive: 1)
+
+UGC08490 (T=9, V_flat=79, n_pts=30/30)
+  M_central estimate: 1.13e+06 M_sun (from V_flat=78.6)
+  Burk: BIC=25.33
+  NFW:  BIC=9.95
+  FW0: BIC=25.33
+  FW1: BIC=17.67
+  FW2: BIC=27.42
+  FW3: BIC=37.60
+  FW4: BIC=47.78
+  FW5: BIC=58.51
+  Best n_shells: 1 (naive: 1)
+
+UGC08550 (T=7, V_flat=57, n_pts=11/11)
+  M_central estimate: 2.73e+05 M_sun (from V_flat=56.9)
+  FW4: NO FIT (Hill rejected)
+  Burk: BIC=13.27
+  NFW:  BIC=11.67
+  FW0: BIC=13.27
+  FW1: BIC=13.55
+  FW2: BIC=20.07
+  FW3: BIC=28.64
+  FW4: BIC=inf
+  FW5: BIC=53.83
+  Best n_shells: 0 (naive: 0)
+
+UGC08699 (T=2, V_flat=182, n_pts=37/41)
+  M_central estimate: 4.59e+07 M_sun (from V_flat=182.4)
+  Burk: BIC=118.79
+  NFW:  BIC=31.74
+  FW0: BIC=118.79
+  FW1: BIC=35.42
+  FW2: BIC=43.12
+  FW3: BIC=52.49
+  FW4: BIC=53.70
+  FW5: BIC=62.37
+  Best n_shells: 1 (naive: 1)
+
+UGC09037 (T=6, V_flat=152, n_pts=19/22)
+  M_central estimate: 2.08e+07 M_sun (from V_flat=152.3)
+  Burk: BIC=14.40
+  NFW:  BIC=26.60
+  FW0: BIC=14.40
+  FW1: BIC=24.93
+  FW2: BIC=29.27
+  FW3: BIC=38.13
+  FW4: BIC=47.52
+  FW5: BIC=68.89
+  Best n_shells: 0 (naive: 0)
+
+UGC09133 (T=2, V_flat=227, n_pts=64/68)
+  M_central estimate: 1.20e+08 M_sun (from V_flat=226.8)
+  Burk: BIC=680.02
+  NFW:  BIC=535.90
+  FW0: BIC=680.02
+  FW1: BIC=664.32
+  FW2: BIC=673.35
+  FW3: BIC=688.75
+  FW4: BIC=583.34
+  FW5: BIC=714.19
+  Best n_shells: 4 (naive: 4)
+
+UGC10310 (T=9, V_flat=71, n_pts=7/7)
+  M_central estimate: 7.40e+05 M_sun (from V_flat=71.4)
+  Burk: BIC=4.36
+  NFW:  BIC=6.74
+  FW0: BIC=4.36
+  FW1: BIC=9.75
+  FW2: BIC=15.60
+  FW3: BIC=37.80
+  FW4: BIC=28.25
+  FW5: BIC=38.02
+  Best n_shells: 0 (naive: 0)
+
+UGC11455 (T=6, V_flat=269, n_pts=33/36)
+  M_central estimate: 2.55e+08 M_sun (from V_flat=269.4)
+  Burk: BIC=63.90
+  NFW:  BIC=59.26
+  FW0: BIC=63.90
+  FW1: BIC=63.40
+  FW2: BIC=74.41
+  FW3: BIC=76.57
+  FW4: BIC=82.73
+  FW5: BIC=94.43
+  Best n_shells: 0 (naive: 1)
+
+UGC11914 (T=2, V_flat=288, n_pts=63/65)
+  M_central estimate: 3.43e+08 M_sun (from V_flat=288.1)
+  Burk: BIC=507.65
+  NFW:  BIC=310.56
+  FW0: BIC=507.65
+  FW1: BIC=286.86
+  FW2: BIC=40.94
+  FW3: BIC=67.33
+  FW4: BIC=74.50
+  FW5: BIC=83.20
+  Best n_shells: 2 (naive: 2)
+
+UGC12506 (T=6, V_flat=234, n_pts=31/31)
+  M_central estimate: 1.37e+08 M_sun (from V_flat=234.0)
+  Burk: BIC=27.87
+  NFW:  BIC=11.73
+  FW0: BIC=27.87
+  FW1: BIC=38.84
+  FW2: BIC=30.02
+  FW3: BIC=40.29
+  FW4: BIC=50.67
+  FW5: BIC=60.85
+  Best n_shells: 0 (naive: 0)
+
+UGC12632 (T=9, V_flat=72, n_pts=15/15)
+  M_central estimate: 7.54e+05 M_sun (from V_flat=71.7)
+  FW5: NO FIT (Hill rejected)
+  Burk: BIC=6.27
+  NFW:  BIC=9.84
+  FW0: BIC=6.27
+  FW1: BIC=13.96
+  FW2: BIC=21.89
+  FW3: BIC=29.86
+  FW4: BIC=38.05
+  FW5: BIC=inf
+  Best n_shells: 0 (naive: 0)
+
+UGCA442 (T=9, V_flat=56, n_pts=8/8)
+  M_central estimate: 2.62e+05 M_sun (from V_flat=56.4)
+  FW3: NO FIT (Hill rejected)
+  FW5: NO FIT (Hill rejected)
+  Burk: BIC=7.84
+  NFW:  BIC=15.88
+  FW0: BIC=7.84
+  FW1: BIC=10.51
+  FW2: BIC=16.75
+  FW3: BIC=inf
+  FW4: BIC=52.12
+  FW5: BIC=inf
+  Best n_shells: 0 (naive: 0)
+
+Finished: 2026-05-22 14:19:11
+Total: 22.9m
+Fit: 102/102

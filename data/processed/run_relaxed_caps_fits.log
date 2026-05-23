@@ -1,0 +1,722 @@
+Relaxed-caps fits producer log
+M-cap = 1e+12, sigma/r = 0.8, r_sh grid = [12.0, 30.0, 80.0]
+Started: 2026-05-20 08:19:12
+========================================================================
+
+ESO079-G014 (T=4, V_flat=175, n_pts=15/15)
+  Burk: chi^2=13.32, chi^2_r=1.02, BIC=18.73
+  NFW:  chi^2=49.50, chi^2_r=3.81, BIC=54.91
+  FW1:  chi^2=2.60, chi^2_r=0.26, BIC=16.14
+  FW2:  chi^2=2.53, chi^2_r=0.36, BIC=24.19
+  BIC-best: n_shells=1
+
+ESO116-G012 (T=7, V_flat=109, n_pts=15/15)
+  Burk: chi^2=10.13, chi^2_r=0.78, BIC=15.55
+  NFW:  chi^2=30.40, chi^2_r=2.34, BIC=35.81
+  FW1:  chi^2=4.97, chi^2_r=0.50, BIC=18.51
+  FW2:  chi^2=3.16, chi^2_r=0.45, BIC=24.82
+  BIC-best: n_shells=0
+
+ESO563-G021 (T=4, V_flat=315, n_pts=27/30)
+  Burk: chi^2=168.07, chi^2_r=6.72, BIC=174.66
+  NFW:  chi^2=360.96, chi^2_r=14.44, BIC=367.55
+  FW1:  chi^2=25.17, chi^2_r=1.14, BIC=41.65
+  FW2:  chi^2=4.19, chi^2_r=0.22, BIC=30.55
+  BIC-best: n_shells=2
+
+F568-V1 (T=7, V_flat=112, n_pts=15/15)
+  Burk: chi^2=0.70, chi^2_r=0.05, BIC=6.11
+  NFW:  chi^2=2.82, chi^2_r=0.22, BIC=8.24
+  FW1:  chi^2=0.53, chi^2_r=0.05, BIC=14.07
+  FW2:  chi^2=0.02, chi^2_r=0.00, BIC=21.68
+  BIC-best: n_shells=0
+
+F571-8 (T=5, V_flat=140, n_pts=9/13)
+  Burk: chi^2=9.31, chi^2_r=1.33, BIC=13.70
+  NFW:  chi^2=23.36, chi^2_r=3.34, BIC=27.75
+  FW1:  chi^2=3.33, chi^2_r=0.83, BIC=14.32
+  FW2:  chi^2=0.05, chi^2_r=0.05, BIC=17.63
+  BIC-best: n_shells=0
+
+F571-V1 (T=7, V_flat=84, n_pts=7/7)
+  Burk: chi^2=0.16, chi^2_r=0.03, BIC=4.05
+  NFW:  chi^2=1.59, chi^2_r=0.32, BIC=5.49
+  FW1:  chi^2=0.02, chi^2_r=0.01, BIC=9.75
+  FW2:  chi^2=0.00, chi^2_r=0.00, BIC=15.57
+  BIC-best: n_shells=0
+
+F574-1 (T=7, V_flat=98, n_pts=14/14)
+  Burk: chi^2=1.13, chi^2_r=0.09, BIC=6.41
+  NFW:  chi^2=19.72, chi^2_r=1.64, BIC=25.00
+  FW1:  chi^2=0.09, chi^2_r=0.01, BIC=13.28
+  FW2:  chi^2=0.02, chi^2_r=0.00, BIC=21.13
+  BIC-best: n_shells=0
+
+F583-1 (T=9, V_flat=86, n_pts=25/25)
+  Burk: chi^2=4.48, chi^2_r=0.19, BIC=10.92
+  NFW:  chi^2=35.96, chi^2_r=1.56, BIC=42.40
+  FW1:  chi^2=2.54, chi^2_r=0.13, BIC=18.64
+  FW2:  chi^2=1.63, chi^2_r=0.10, BIC=27.38
+  BIC-best: n_shells=0
+
+IC2574 (T=9, V_flat=66, n_pts=34/34)
+  Burk: chi^2=41.82, chi^2_r=1.31, BIC=48.87
+  NFW:  chi^2=164.26, chi^2_r=5.13, BIC=171.32
+  FW1:  chi^2=16.23, chi^2_r=0.56, BIC=33.87
+  FW2:  chi^2=12.61, chi^2_r=0.48, BIC=40.82
+  BIC-best: n_shells=1
+
+IC4202 (T=4, V_flat=243, n_pts=29/32)
+  Burk: chi^2=85.51, chi^2_r=3.17, BIC=92.24
+  NFW:  chi^2=128.52, chi^2_r=4.76, BIC=135.26
+  FW1:  chi^2=31.70, chi^2_r=1.32, BIC=48.54
+  FW2:  chi^2=8.27, chi^2_r=0.39, BIC=35.20
+  BIC-best: n_shells=2
+
+NGC0024 (T=5, V_flat=106, n_pts=29/29)
+  Burk: chi^2=21.15, chi^2_r=0.78, BIC=27.88
+  NFW:  chi^2=25.14, chi^2_r=0.93, BIC=31.88
+  FW1:  chi^2=3.12, chi^2_r=0.13, BIC=19.96
+  FW2:  chi^2=0.61, chi^2_r=0.03, BIC=27.55
+  BIC-best: n_shells=1
+
+NGC0055 (T=9, V_flat=86, n_pts=21/21)
+  Burk: chi^2=9.18, chi^2_r=0.48, BIC=15.26
+  NFW:  chi^2=53.04, chi^2_r=2.79, BIC=59.12
+  FW1:  chi^2=1.71, chi^2_r=0.11, BIC=16.93
+  FW2:  chi^2=0.62, chi^2_r=0.05, BIC=24.98
+  BIC-best: n_shells=0
+
+NGC0100 (T=6, V_flat=88, n_pts=21/21)
+  Burk: chi^2=1.63, chi^2_r=0.09, BIC=7.71
+  NFW:  chi^2=14.38, chi^2_r=0.76, BIC=20.47
+  FW1:  chi^2=1.14, chi^2_r=0.07, BIC=16.36
+  FW2:  chi^2=0.45, chi^2_r=0.03, BIC=24.81
+  BIC-best: n_shells=0
+
+NGC0247 (T=7, V_flat=105, n_pts=26/26)
+  Burk: chi^2=92.97, chi^2_r=3.87, BIC=99.49
+  NFW:  chi^2=39.94, chi^2_r=1.66, BIC=46.46
+  FW1:  chi^2=1.37, chi^2_r=0.07, BIC=17.66
+  FW2:  chi^2=0.41, chi^2_r=0.02, BIC=26.47
+  BIC-best: n_shells=1
+
+NGC0289 (T=4, V_flat=163, n_pts=28/28)
+  Burk: chi^2=67.52, chi^2_r=2.60, BIC=74.19
+  NFW:  chi^2=50.77, chi^2_r=1.95, BIC=57.43
+  FW1:  chi^2=20.65, chi^2_r=0.90, BIC=37.31
+  FW2:  chi^2=13.11, chi^2_r=0.66, BIC=39.76
+  BIC-best: n_shells=1
+
+NGC0300 (T=7, V_flat=93, n_pts=25/25)
+  Burk: chi^2=13.42, chi^2_r=0.58, BIC=19.85
+  NFW:  chi^2=14.89, chi^2_r=0.65, BIC=21.33
+  FW1:  chi^2=5.57, chi^2_r=0.28, BIC=21.66
+  FW2:  chi^2=2.02, chi^2_r=0.12, BIC=27.77
+  BIC-best: n_shells=0
+
+NGC0801 (T=5, V_flat=220, n_pts=11/13)
+  Burk: chi^2=129.66, chi^2_r=14.41, BIC=134.46
+  NFW:  chi^2=68.01, chi^2_r=7.56, BIC=72.80
+  FW1:  chi^2=2.49, chi^2_r=0.42, BIC=14.48
+  FW2:  chi^2=0.22, chi^2_r=0.07, BIC=19.40
+  BIC-best: n_shells=1
+
+NGC0891 (T=3, V_flat=216, n_pts=14/18)
+  Burk: chi^2=32.87, chi^2_r=2.74, BIC=38.14
+  NFW:  chi^2=48.03, chi^2_r=4.00, BIC=53.31
+  FW1:  chi^2=2.43, chi^2_r=0.27, BIC=15.63
+  FW2:  chi^2=1.07, chi^2_r=0.18, BIC=22.18
+  BIC-best: n_shells=1
+
+NGC1003 (T=6, V_flat=110, n_pts=36/36)
+  Burk: chi^2=188.52, chi^2_r=5.54, BIC=195.69
+  NFW:  chi^2=87.30, chi^2_r=2.57, BIC=94.46
+  FW1:  chi^2=30.51, chi^2_r=0.98, BIC=48.42
+  FW2:  chi^2=10.41, chi^2_r=0.37, BIC=39.08
+  BIC-best: n_shells=2
+
+NGC1090 (T=4, V_flat=164, n_pts=22/24)
+  Burk: chi^2=37.76, chi^2_r=1.89, BIC=43.94
+  NFW:  chi^2=40.64, chi^2_r=2.03, BIC=46.83
+  FW1:  chi^2=8.88, chi^2_r=0.52, BIC=24.34
+  FW2:  chi^2=6.91, chi^2_r=0.49, BIC=31.64
+  BIC-best: n_shells=1
+
+NGC2403 (T=6, V_flat=131, n_pts=73/73)
+  Burk: chi^2=1351.03, chi^2_r=19.03, BIC=1359.61
+  NFW:  chi^2=347.41, chi^2_r=4.89, BIC=355.99
+  FW1:  chi^2=172.18, chi^2_r=2.53, BIC=193.63
+  FW2:  chi^2=80.10, chi^2_r=1.23, BIC=114.43
+  BIC-best: n_shells=2
+
+NGC2683 (T=3, V_flat=154, n_pts=11/11)
+  Burk: chi^2=6.23, chi^2_r=0.69, BIC=11.02
+  NFW:  chi^2=7.64, chi^2_r=0.85, BIC=12.43
+  FW1:  chi^2=5.23, chi^2_r=0.87, BIC=17.22
+  FW2:  chi^2=4.39, chi^2_r=1.46, BIC=23.57
+  BIC-best: n_shells=0
+
+NGC2841 (T=3, V_flat=285, n_pts=50/50)
+  Burk: chi^2=335.70, chi^2_r=6.99, BIC=343.52
+  NFW:  chi^2=160.33, chi^2_r=3.34, BIC=168.15
+  FW1:  chi^2=39.85, chi^2_r=0.89, BIC=59.41
+  FW2:  chi^2=13.67, chi^2_r=0.33, BIC=44.97
+  BIC-best: n_shells=2
+
+NGC2903 (T=4, V_flat=185, n_pts=29/34)
+  Burk: chi^2=52.29, chi^2_r=1.94, BIC=59.03
+  NFW:  chi^2=158.11, chi^2_r=5.86, BIC=164.85
+  FW1:  chi^2=21.10, chi^2_r=0.88, BIC=37.93
+  FW2:  chi^2=18.73, chi^2_r=0.89, BIC=45.67
+  BIC-best: n_shells=1
+
+NGC2976 (T=5, V_flat=85, n_pts=24/27)
+  Burk: chi^2=5.71, chi^2_r=0.26, BIC=12.07
+  NFW:  chi^2=32.67, chi^2_r=1.49, BIC=39.03
+  FW1:  chi^2=5.34, chi^2_r=0.28, BIC=21.23
+  FW2:  chi^2=5.46, chi^2_r=0.34, BIC=30.88
+  BIC-best: n_shells=0
+
+NGC2998 (T=5, V_flat=210, n_pts=13/13)
+  Burk: chi^2=61.12, chi^2_r=5.56, BIC=66.25
+  NFW:  chi^2=27.01, chi^2_r=2.46, BIC=32.14
+  FW1:  chi^2=4.05, chi^2_r=0.51, BIC=16.88
+  FW2:  chi^2=2.50, chi^2_r=0.50, BIC=23.02
+  BIC-best: n_shells=1
+
+NGC3109 (T=9, V_flat=66, n_pts=25/25)
+  Burk: chi^2=3.43, chi^2_r=0.15, BIC=9.86
+  NFW:  chi^2=152.51, chi^2_r=6.63, BIC=158.95
+  FW1:  chi^2=2.31, chi^2_r=0.12, BIC=18.40
+  FW2:  chi^2=1.49, chi^2_r=0.09, BIC=27.24
+  BIC-best: n_shells=0
+
+NGC3198 (T=5, V_flat=150, n_pts=40/43)
+  Burk: chi^2=67.93, chi^2_r=1.79, BIC=75.31
+  NFW:  chi^2=50.95, chi^2_r=1.34, BIC=58.33
+  FW1:  chi^2=18.56, chi^2_r=0.53, BIC=37.00
+  FW2:  chi^2=12.55, chi^2_r=0.39, BIC=42.06
+  BIC-best: n_shells=1
+
+NGC3521 (T=4, V_flat=214, n_pts=41/41)
+  Burk: chi^2=30.91, chi^2_r=0.79, BIC=38.33
+  NFW:  chi^2=12.75, chi^2_r=0.33, BIC=20.17
+  FW1:  chi^2=2.21, chi^2_r=0.06, BIC=20.78
+  FW2:  chi^2=1.08, chi^2_r=0.03, BIC=30.79
+  BIC-best: n_shells=1
+
+NGC3726 (T=5, V_flat=168, n_pts=12/12)
+  Burk: chi^2=24.24, chi^2_r=2.42, BIC=29.21
+  NFW:  chi^2=20.43, chi^2_r=2.04, BIC=25.40
+  FW1:  chi^2=5.59, chi^2_r=0.80, BIC=18.01
+  FW2:  chi^2=5.06, chi^2_r=1.27, BIC=24.94
+  BIC-best: n_shells=1
+
+NGC3769 (T=3, V_flat=119, n_pts=11/12)
+  Burk: chi^2=5.64, chi^2_r=0.63, BIC=10.44
+  NFW:  chi^2=8.22, chi^2_r=0.91, BIC=13.02
+  FW1:  chi^2=0.56, chi^2_r=0.09, BIC=12.55
+  FW2:  chi^2=0.10, chi^2_r=0.03, BIC=19.29
+  BIC-best: n_shells=0
+
+NGC3877 (T=5, V_flat=168, n_pts=11/13)
+  Burk: chi^2=7.10, chi^2_r=0.79, BIC=11.89
+  NFW:  chi^2=7.77, chi^2_r=0.86, BIC=12.56
+  FW1:  chi^2=1.54, chi^2_r=0.26, BIC=13.53
+  FW2:  chi^2=0.63, chi^2_r=0.21, BIC=19.82
+  BIC-best: n_shells=0
+
+NGC3893 (T=5, V_flat=174, n_pts=10/10)
+  Burk: chi^2=2.83, chi^2_r=0.35, BIC=7.43
+  NFW:  chi^2=8.87, chi^2_r=1.11, BIC=13.48
+  FW1:  chi^2=1.22, chi^2_r=0.24, BIC=12.74
+  FW2:  chi^2=0.48, chi^2_r=0.24, BIC=18.90
+  BIC-best: n_shells=0
+
+NGC3917 (T=6, V_flat=136, n_pts=16/17)
+  Burk: chi^2=8.92, chi^2_r=0.64, BIC=14.47
+  NFW:  chi^2=29.24, chi^2_r=2.09, BIC=34.79
+  FW1:  chi^2=1.77, chi^2_r=0.16, BIC=15.63
+  FW2:  chi^2=0.89, chi^2_r=0.11, BIC=23.07
+  BIC-best: n_shells=0
+
+NGC3949 (T=4, V_flat=163, n_pts=7/7)
+  Burk: chi^2=2.09, chi^2_r=0.42, BIC=5.98
+  NFW:  chi^2=2.76, chi^2_r=0.55, BIC=6.65
+  FW1:  chi^2=0.62, chi^2_r=0.31, BIC=10.35
+  FW2:  chi^2=0.72, chi^2_r=0.72, BIC=16.28
+  BIC-best: n_shells=0
+
+NGC3953 (T=4, V_flat=221, n_pts=8/8)
+  Burk: chi^2=1.10, chi^2_r=0.18, BIC=5.26
+  NFW:  chi^2=1.60, chi^2_r=0.27, BIC=5.76
+  FW1:  chi^2=0.28, chi^2_r=0.09, BIC=10.67
+  FW2:  chi^2=0.06, chi^2_r=0.06, BIC=16.70
+  BIC-best: n_shells=0
+
+NGC3972 (T=4, V_flat=133, n_pts=10/10)
+  Burk: chi^2=6.29, chi^2_r=0.79, BIC=10.90
+  NFW:  chi^2=9.16, chi^2_r=1.15, BIC=13.77
+  FW1:  chi^2=1.45, chi^2_r=0.29, BIC=12.96
+  FW2:  chi^2=0.60, chi^2_r=0.30, BIC=19.02
+  BIC-best: n_shells=0
+
+NGC3992 (T=4, V_flat=241, n_pts=9/9)
+  Burk: chi^2=4.97, chi^2_r=0.71, BIC=9.36
+  NFW:  chi^2=2.91, chi^2_r=0.42, BIC=7.30
+  FW1:  chi^2=2.66, chi^2_r=0.67, BIC=13.65
+  FW2:  chi^2=2.49, chi^2_r=2.49, BIC=20.07
+  BIC-best: n_shells=0
+
+NGC4010 (T=7, V_flat=126, n_pts=12/12)
+  Burk: chi^2=14.60, chi^2_r=1.46, BIC=19.57
+  NFW:  chi^2=22.44, chi^2_r=2.24, BIC=27.41
+  FW1:  chi^2=1.13, chi^2_r=0.16, BIC=13.55
+  FW2:  chi^2=1.02, chi^2_r=0.25, BIC=20.90
+  BIC-best: n_shells=1
+
+NGC4013 (T=3, V_flat=173, n_pts=36/36)
+  Burk: chi^2=61.44, chi^2_r=1.81, BIC=68.60
+  NFW:  chi^2=33.79, chi^2_r=0.99, BIC=40.96
+  FW1:  chi^2=17.88, chi^2_r=0.58, BIC=35.79
+  FW2:  chi^2=17.01, chi^2_r=0.61, BIC=45.68
+  BIC-best: n_shells=1
+
+NGC4051 (T=4, V_flat=157, n_pts=7/7)
+  Burk: chi^2=3.10, chi^2_r=0.62, BIC=6.99
+  NFW:  chi^2=3.96, chi^2_r=0.79, BIC=7.85
+  FW1:  chi^2=0.76, chi^2_r=0.38, BIC=10.49
+  FW2:  chi^2=0.28, chi^2_r=0.28, BIC=15.85
+  BIC-best: n_shells=0
+
+NGC4085 (T=5, V_flat=132, n_pts=5/7)
+  Burk: chi^2=1.26, chi^2_r=0.42, BIC=4.48
+  NFW:  chi^2=1.36, chi^2_r=0.45, BIC=4.58
+  FW1:  chi^2=0.56, chi^2_r=0.56, BIC=8.61
+  FW2:  chi^2=0.59, chi^2_r=0.59, BIC=13.46
+  BIC-best: n_shells=0
+
+NGC4088 (T=4, V_flat=172, n_pts=9/12)
+  Burk: chi^2=1.69, chi^2_r=0.24, BIC=6.09
+  NFW:  chi^2=9.75, chi^2_r=1.39, BIC=14.15
+  FW1:  chi^2=0.51, chi^2_r=0.13, BIC=11.50
+  FW2:  chi^2=0.15, chi^2_r=0.15, BIC=17.73
+  BIC-best: n_shells=0
+
+NGC4100 (T=4, V_flat=158, n_pts=24/24)
+  Burk: chi^2=13.50, chi^2_r=0.61, BIC=19.85
+  NFW:  chi^2=18.88, chi^2_r=0.86, BIC=25.23
+  FW1:  chi^2=6.62, chi^2_r=0.35, BIC=22.51
+  FW2:  chi^2=3.80, chi^2_r=0.24, BIC=29.22
+  BIC-best: n_shells=0
+
+NGC4157 (T=3, V_flat=185, n_pts=15/17)
+  Burk: chi^2=3.55, chi^2_r=0.27, BIC=8.97
+  NFW:  chi^2=1.51, chi^2_r=0.12, BIC=6.93
+  FW1:  chi^2=0.70, chi^2_r=0.07, BIC=14.24
+  FW2:  chi^2=0.27, chi^2_r=0.04, BIC=21.94
+  BIC-best: n_shells=0
+
+NGC4183 (T=6, V_flat=111, n_pts=23/23)
+  Burk: chi^2=8.07, chi^2_r=0.38, BIC=14.34
+  NFW:  chi^2=3.56, chi^2_r=0.17, BIC=9.83
+  FW1:  chi^2=1.27, chi^2_r=0.07, BIC=16.95
+  FW2:  chi^2=1.03, chi^2_r=0.07, BIC=26.12
+  BIC-best: n_shells=0
+
+NGC4217 (T=3, V_flat=181, n_pts=11/19)
+  Burk: chi^2=5.47, chi^2_r=0.61, BIC=10.26
+  NFW:  chi^2=7.03, chi^2_r=0.78, BIC=11.83
+  FW1:  chi^2=0.25, chi^2_r=0.04, BIC=12.24
+  FW2:  chi^2=0.14, chi^2_r=0.05, BIC=19.32
+  BIC-best: n_shells=0
+
+NGC4559 (T=6, V_flat=121, n_pts=32/32)
+  Burk: chi^2=7.37, chi^2_r=0.25, BIC=14.31
+  NFW:  chi^2=11.71, chi^2_r=0.39, BIC=18.64
+  FW1:  chi^2=1.16, chi^2_r=0.04, BIC=18.49
+  FW2:  chi^2=0.72, chi^2_r=0.03, BIC=28.44
+  BIC-best: n_shells=0
+
+NGC5005 (T=4, V_flat=262, n_pts=13/18)
+  Burk: chi^2=0.34, chi^2_r=0.03, BIC=5.47
+  NFW:  chi^2=1.65, chi^2_r=0.15, BIC=6.78
+  FW1:  chi^2=0.11, chi^2_r=0.01, BIC=12.93
+  FW2:  chi^2=0.05, chi^2_r=0.01, BIC=20.57
+  BIC-best: n_shells=0
+
+NGC5033 (T=5, V_flat=194, n_pts=20/22)
+  Burk: chi^2=44.54, chi^2_r=2.47, BIC=50.53
+  NFW:  chi^2=81.28, chi^2_r=4.52, BIC=87.27
+  FW1:  chi^2=27.55, chi^2_r=1.84, BIC=42.52
+  FW2:  chi^2=17.74, chi^2_r=1.48, BIC=41.70
+  BIC-best: n_shells=2
+
+NGC5055 (T=4, V_flat=179, n_pts=22/28)
+  Burk: chi^2=190.58, chi^2_r=9.53, BIC=196.76
+  NFW:  chi^2=604.11, chi^2_r=30.21, BIC=610.29
+  FW1:  chi^2=17.73, chi^2_r=1.04, BIC=33.19
+  FW2:  chi^2=7.38, chi^2_r=0.53, BIC=32.11
+  BIC-best: n_shells=2
+
+NGC5371 (T=4, V_flat=210, n_pts=19/19)
+  Burk: chi^2=208.41, chi^2_r=12.26, BIC=214.30
+  NFW:  chi^2=149.92, chi^2_r=8.82, BIC=155.81
+  FW1:  chi^2=14.30, chi^2_r=1.02, BIC=29.02
+  FW2:  chi^2=11.68, chi^2_r=1.06, BIC=35.24
+  BIC-best: n_shells=1
+
+NGC5585 (T=7, V_flat=90, n_pts=24/24)
+  Burk: chi^2=113.78, chi^2_r=5.17, BIC=120.14
+  NFW:  chi^2=155.73, chi^2_r=7.08, BIC=162.08
+  FW1:  chi^2=70.31, chi^2_r=3.70, BIC=86.20
+  FW2:  chi^2=58.74, chi^2_r=3.67, BIC=84.17
+  BIC-best: n_shells=2
+
+NGC5907 (T=5, V_flat=215, n_pts=19/19)
+  Burk: chi^2=171.45, chi^2_r=10.09, BIC=177.34
+  NFW:  chi^2=97.07, chi^2_r=5.71, BIC=102.96
+  FW1:  chi^2=33.93, chi^2_r=2.42, BIC=48.65
+  FW2:  chi^2=12.91, chi^2_r=1.17, BIC=36.46
+  BIC-best: n_shells=2
+
+NGC5985 (T=3, V_flat=294, n_pts=33/33)
+  Burk: chi^2=111.90, chi^2_r=3.61, BIC=118.89
+  NFW:  chi^2=81.50, chi^2_r=2.63, BIC=88.49
+  FW1:  chi^2=21.96, chi^2_r=0.78, BIC=39.44
+  FW2:  chi^2=9.45, chi^2_r=0.38, BIC=37.42
+  BIC-best: n_shells=2
+
+NGC6015 (T=6, V_flat=154, n_pts=44/44)
+  Burk: chi^2=661.79, chi^2_r=15.76, BIC=669.36
+  NFW:  chi^2=347.90, chi^2_r=8.28, BIC=355.47
+  FW1:  chi^2=105.83, chi^2_r=2.71, BIC=124.75
+  FW2:  chi^2=30.77, chi^2_r=0.85, BIC=61.05
+  BIC-best: n_shells=2
+
+NGC6195 (T=3, V_flat=252, n_pts=20/23)
+  Burk: chi^2=31.95, chi^2_r=1.77, BIC=37.94
+  NFW:  chi^2=17.98, chi^2_r=1.00, BIC=23.97
+  FW1:  chi^2=6.25, chi^2_r=0.42, BIC=21.23
+  FW2:  chi^2=5.74, chi^2_r=0.48, BIC=29.71
+  BIC-best: n_shells=1
+
+NGC6503 (T=6, V_flat=116, n_pts=31/31)
+  Burk: chi^2=73.86, chi^2_r=2.55, BIC=80.73
+  NFW:  chi^2=56.20, chi^2_r=1.94, BIC=63.07
+  FW1:  chi^2=20.95, chi^2_r=0.81, BIC=38.12
+  FW2:  chi^2=9.71, chi^2_r=0.42, BIC=37.18
+  BIC-best: n_shells=2
+
+NGC6674 (T=3, V_flat=241, n_pts=15/15)
+  Burk: chi^2=276.96, chi^2_r=21.30, BIC=282.37
+  NFW:  chi^2=176.87, chi^2_r=13.61, BIC=182.28
+  FW1:  chi^2=7.39, chi^2_r=0.74, BIC=20.93
+  FW2:  chi^2=1.62, chi^2_r=0.23, BIC=23.28
+  BIC-best: n_shells=1
+
+NGC6946 (T=6, V_flat=159, n_pts=55/58)
+  Burk: chi^2=63.22, chi^2_r=1.19, BIC=71.24
+  NFW:  chi^2=101.21, chi^2_r=1.91, BIC=109.22
+  FW1:  chi^2=31.36, chi^2_r=0.63, BIC=51.40
+  FW2:  chi^2=17.95, chi^2_r=0.38, BIC=50.01
+  BIC-best: n_shells=2
+
+NGC7331 (T=3, V_flat=239, n_pts=28/36)
+  Burk: chi^2=12.21, chi^2_r=0.47, BIC=18.88
+  NFW:  chi^2=15.12, chi^2_r=0.58, BIC=21.78
+  FW1:  chi^2=6.27, chi^2_r=0.27, BIC=22.93
+  FW2:  chi^2=4.20, chi^2_r=0.21, BIC=30.86
+  BIC-best: n_shells=0
+
+NGC7814 (T=2, V_flat=219, n_pts=16/18)
+  Burk: chi^2=9.93, chi^2_r=0.71, BIC=15.48
+  NFW:  chi^2=13.59, chi^2_r=0.97, BIC=19.13
+  FW1:  chi^2=0.64, chi^2_r=0.06, BIC=14.51
+  FW2:  chi^2=0.29, chi^2_r=0.04, BIC=22.47
+  BIC-best: n_shells=1
+
+UGC00128 (T=8, V_flat=129, n_pts=22/22)
+  Burk: chi^2=144.06, chi^2_r=7.20, BIC=150.24
+  NFW:  chi^2=50.45, chi^2_r=2.52, BIC=56.63
+  FW1:  chi^2=46.05, chi^2_r=2.71, BIC=61.50
+  FW2:  chi^2=23.56, chi^2_r=1.68, BIC=48.28
+  BIC-best: n_shells=2
+
+UGC01281 (T=8, V_flat=55, n_pts=25/25)
+  Burk: chi^2=3.88, chi^2_r=0.17, BIC=10.32
+  NFW:  chi^2=21.67, chi^2_r=0.94, BIC=28.11
+  FW1:  chi^2=0.37, chi^2_r=0.02, BIC=16.47
+  FW2:  chi^2=0.37, chi^2_r=0.02, BIC=26.12
+  BIC-best: n_shells=0
+
+UGC02259 (T=8, V_flat=86, n_pts=8/8)
+  Burk: chi^2=13.84, chi^2_r=2.31, BIC=18.00
+  NFW:  chi^2=4.24, chi^2_r=0.71, BIC=8.40
+  FW1:  chi^2=0.15, chi^2_r=0.05, BIC=10.54
+  FW2:  chi^2=0.02, chi^2_r=0.02, BIC=16.66
+  BIC-best: n_shells=1
+
+UGC02885 (T=5, V_flat=290, n_pts=19/19)
+  Burk: chi^2=75.25, chi^2_r=4.43, BIC=81.14
+  NFW:  chi^2=44.19, chi^2_r=2.60, BIC=50.08
+  FW1:  chi^2=4.99, chi^2_r=0.36, BIC=19.72
+  FW2:  chi^2=2.37, chi^2_r=0.22, BIC=25.93
+  BIC-best: n_shells=1
+
+UGC02916 (T=2, V_flat=183, n_pts=32/43)
+  Burk: chi^2=90.25, chi^2_r=3.01, BIC=97.19
+  NFW:  chi^2=153.85, chi^2_r=5.13, BIC=160.78
+  FW1:  chi^2=17.10, chi^2_r=0.63, BIC=34.43
+  FW2:  chi^2=10.04, chi^2_r=0.42, BIC=37.76
+  BIC-best: n_shells=1
+
+UGC02953 (T=2, V_flat=265, n_pts=106/115)
+  Burk: chi^2=1122.72, chi^2_r=10.80, BIC=1132.04
+  NFW:  chi^2=596.65, chi^2_r=5.74, BIC=605.97
+  FW1:  chi^2=253.16, chi^2_r=2.51, BIC=276.47
+  FW2:  chi^2=191.04, chi^2_r=1.95, BIC=228.35
+  BIC-best: n_shells=2
+
+UGC03205 (T=2, V_flat=220, n_pts=46/48)
+  Burk: chi^2=333.50, chi^2_r=7.58, BIC=341.15
+  NFW:  chi^2=178.82, chi^2_r=4.06, BIC=186.48
+  FW1:  chi^2=39.96, chi^2_r=0.97, BIC=59.10
+  FW2:  chi^2=31.49, chi^2_r=0.83, BIC=62.12
+  BIC-best: n_shells=1
+
+UGC04278 (T=7, V_flat=91, n_pts=25/25)
+  Burk: chi^2=14.90, chi^2_r=0.65, BIC=21.33
+  NFW:  chi^2=29.79, chi^2_r=1.30, BIC=36.23
+  FW1:  chi^2=0.89, chi^2_r=0.04, BIC=16.98
+  FW2:  chi^2=0.55, chi^2_r=0.03, BIC=26.31
+  BIC-best: n_shells=1
+
+UGC04325 (T=9, V_flat=91, n_pts=8/8)
+  Burk: chi^2=2.47, chi^2_r=0.41, BIC=6.63
+  NFW:  chi^2=17.21, chi^2_r=2.87, BIC=21.37
+  FW1:  chi^2=0.11, chi^2_r=0.04, BIC=10.51
+  FW2:  chi^2=0.00, chi^2_r=0.00, BIC=16.64
+  BIC-best: n_shells=0
+
+UGC04499 (T=8, V_flat=73, n_pts=9/9)
+  Burk: chi^2=1.70, chi^2_r=0.24, BIC=6.10
+  NFW:  chi^2=7.31, chi^2_r=1.04, BIC=11.71
+  FW1:  chi^2=0.52, chi^2_r=0.13, BIC=11.50
+  FW2:  chi^2=0.29, chi^2_r=0.29, BIC=17.86
+  BIC-best: n_shells=0
+
+UGC05253 (T=2, V_flat=214, n_pts=73/73)
+  Burk: chi^2=100.21, chi^2_r=1.41, BIC=108.79
+  NFW:  chi^2=431.63, chi^2_r=6.08, BIC=440.21
+  FW1:  chi^2=37.61, chi^2_r=0.55, BIC=59.06
+  FW2:  chi^2=33.32, chi^2_r=0.51, BIC=67.64
+  BIC-best: n_shells=1
+
+UGC05716 (T=9, V_flat=73, n_pts=12/12)
+  Burk: chi^2=25.48, chi^2_r=2.55, BIC=30.45
+  NFW:  chi^2=12.84, chi^2_r=1.28, BIC=17.81
+  FW1:  chi^2=6.41, chi^2_r=0.92, BIC=18.84
+  FW2:  chi^2=0.34, chi^2_r=0.08, BIC=20.22
+  BIC-best: n_shells=1
+
+UGC05721 (T=7, V_flat=80, n_pts=23/23)
+  Burk: chi^2=8.25, chi^2_r=0.39, BIC=14.52
+  NFW:  chi^2=20.24, chi^2_r=0.96, BIC=26.51
+  FW1:  chi^2=6.69, chi^2_r=0.37, BIC=22.36
+  FW2:  chi^2=2.10, chi^2_r=0.14, BIC=27.18
+  BIC-best: n_shells=0
+
+UGC05986 (T=9, V_flat=113, n_pts=15/15)
+  Burk: chi^2=11.32, chi^2_r=0.87, BIC=16.74
+  NFW:  chi^2=75.54, chi^2_r=5.81, BIC=80.95
+  FW1:  chi^2=2.17, chi^2_r=0.22, BIC=15.71
+  FW2:  chi^2=1.61, chi^2_r=0.23, BIC=23.27
+  BIC-best: n_shells=1
+
+UGC06399 (T=9, V_flat=85, n_pts=9/9)
+  Burk: chi^2=0.33, chi^2_r=0.05, BIC=4.72
+  NFW:  chi^2=4.61, chi^2_r=0.66, BIC=9.00
+  FW1:  chi^2=0.23, chi^2_r=0.06, BIC=11.22
+  FW2:  chi^2=0.21, chi^2_r=0.21, BIC=17.79
+  BIC-best: n_shells=0
+
+UGC06446 (T=7, V_flat=82, n_pts=17/17)
+  Burk: chi^2=6.74, chi^2_r=0.45, BIC=12.41
+  NFW:  chi^2=3.22, chi^2_r=0.21, BIC=8.89
+  FW1:  chi^2=1.00, chi^2_r=0.08, BIC=15.17
+  FW2:  chi^2=0.39, chi^2_r=0.04, BIC=23.05
+  BIC-best: n_shells=0
+
+UGC06667 (T=6, V_flat=84, n_pts=9/9)
+  Burk: chi^2=0.66, chi^2_r=0.09, BIC=5.05
+  NFW:  chi^2=9.15, chi^2_r=1.31, BIC=13.54
+  FW1:  chi^2=0.35, chi^2_r=0.09, BIC=11.33
+  FW2:  chi^2=0.07, chi^2_r=0.07, BIC=17.65
+  BIC-best: n_shells=0
+
+UGC06787 (T=2, V_flat=248, n_pts=55/71)
+  Burk: chi^2=1787.47, chi^2_r=33.73, BIC=1795.49
+  NFW:  chi^2=1493.41, chi^2_r=28.18, BIC=1501.42
+  FW1:  chi^2=492.25, chi^2_r=9.85, BIC=512.29
+  FW2:  chi^2=126.83, chi^2_r=2.70, BIC=158.89
+  BIC-best: n_shells=2
+
+UGC06818 (T=9, V_flat=71, n_pts=8/8)
+  Burk: chi^2=7.26, chi^2_r=1.21, BIC=11.42
+  NFW:  chi^2=21.54, chi^2_r=3.59, BIC=25.70
+  FW1:  chi^2=0.89, chi^2_r=0.30, BIC=11.29
+  FW2:  chi^2=0.37, chi^2_r=0.37, BIC=17.00
+  BIC-best: n_shells=1
+
+UGC06917 (T=9, V_flat=109, n_pts=11/11)
+  Burk: chi^2=1.76, chi^2_r=0.20, BIC=6.56
+  NFW:  chi^2=7.23, chi^2_r=0.80, BIC=12.03
+  FW1:  chi^2=0.22, chi^2_r=0.04, BIC=12.21
+  FW2:  chi^2=0.09, chi^2_r=0.03, BIC=19.27
+  BIC-best: n_shells=0
+
+UGC06930 (T=7, V_flat=107, n_pts=10/10)
+  Burk: chi^2=1.41, chi^2_r=0.18, BIC=6.01
+  NFW:  chi^2=2.22, chi^2_r=0.28, BIC=6.82
+  FW1:  chi^2=0.06, chi^2_r=0.01, BIC=11.58
+  FW2:  chi^2=0.03, chi^2_r=0.01, BIC=18.45
+  BIC-best: n_shells=0
+
+UGC06983 (T=6, V_flat=109, n_pts=17/17)
+  Burk: chi^2=6.35, chi^2_r=0.42, BIC=12.02
+  NFW:  chi^2=8.95, chi^2_r=0.60, BIC=14.62
+  FW1:  chi^2=1.37, chi^2_r=0.11, BIC=15.54
+  FW2:  chi^2=0.62, chi^2_r=0.07, BIC=23.28
+  BIC-best: n_shells=0
+
+UGC07125 (T=9, V_flat=65, n_pts=13/13)
+  Burk: chi^2=2.71, chi^2_r=0.25, BIC=7.84
+  NFW:  chi^2=9.39, chi^2_r=0.85, BIC=14.52
+  FW1:  chi^2=2.07, chi^2_r=0.26, BIC=14.89
+  FW2:  chi^2=1.71, chi^2_r=0.34, BIC=22.23
+  BIC-best: n_shells=0
+
+UGC07151 (T=6, V_flat=74, n_pts=11/11)
+  Burk: chi^2=8.15, chi^2_r=0.91, BIC=12.95
+  NFW:  chi^2=26.31, chi^2_r=2.92, BIC=31.11
+  FW1:  chi^2=3.49, chi^2_r=0.58, BIC=15.48
+  FW2:  chi^2=0.43, chi^2_r=0.14, BIC=19.62
+  BIC-best: n_shells=0
+
+UGC07261 (T=8, V_flat=75, n_pts=7/7)
+  Burk: chi^2=1.86, chi^2_r=0.37, BIC=5.75
+  NFW:  chi^2=0.24, chi^2_r=0.05, BIC=4.14
+  FW1:  chi^2=0.02, chi^2_r=0.01, BIC=9.75
+  FW2:  chi^2=0.07, chi^2_r=0.07, BIC=15.63
+  BIC-best: n_shells=0
+
+UGC07399 (T=8, V_flat=103, n_pts=10/10)
+  Burk: chi^2=7.08, chi^2_r=0.89, BIC=11.69
+  NFW:  chi^2=8.11, chi^2_r=1.01, BIC=12.71
+  FW1:  chi^2=0.10, chi^2_r=0.02, BIC=11.61
+  FW2:  chi^2=0.05, chi^2_r=0.02, BIC=18.47
+  BIC-best: n_shells=1
+
+UGC07524 (T=9, V_flat=80, n_pts=31/31)
+  Burk: chi^2=6.76, chi^2_r=0.23, BIC=13.63
+  NFW:  chi^2=23.40, chi^2_r=0.81, BIC=30.27
+  FW1:  chi^2=5.11, chi^2_r=0.20, BIC=22.28
+  FW2:  chi^2=2.40, chi^2_r=0.10, BIC=29.87
+  BIC-best: n_shells=0
+
+UGC07603 (T=7, V_flat=62, n_pts=12/12)
+  Burk: chi^2=2.03, chi^2_r=0.20, BIC=7.00
+  NFW:  chi^2=15.15, chi^2_r=1.51, BIC=20.12
+  FW1:  chi^2=0.29, chi^2_r=0.04, BIC=12.71
+  FW2:  chi^2=0.29, chi^2_r=0.07, BIC=20.17
+  BIC-best: n_shells=0
+
+UGC08286 (T=6, V_flat=82, n_pts=17/17)
+  Burk: chi^2=18.58, chi^2_r=1.24, BIC=24.24
+  NFW:  chi^2=36.78, chi^2_r=2.45, BIC=42.45
+  FW1:  chi^2=0.34, chi^2_r=0.03, BIC=14.50
+  FW2:  chi^2=0.23, chi^2_r=0.03, BIC=22.89
+  BIC-best: n_shells=1
+
+UGC08490 (T=9, V_flat=79, n_pts=30/30)
+  Burk: chi^2=18.53, chi^2_r=0.66, BIC=25.33
+  NFW:  chi^2=3.15, chi^2_r=0.11, BIC=9.95
+  FW1:  chi^2=0.66, chi^2_r=0.03, BIC=17.67
+  FW2:  chi^2=0.21, chi^2_r=0.01, BIC=27.42
+  BIC-best: n_shells=1
+
+UGC08550 (T=7, V_flat=57, n_pts=11/11)
+  Burk: chi^2=8.47, chi^2_r=0.94, BIC=13.27
+  NFW:  chi^2=6.87, chi^2_r=0.76, BIC=11.67
+  FW1:  chi^2=0.89, chi^2_r=0.15, BIC=12.88
+  FW2:  chi^2=0.89, chi^2_r=0.30, BIC=20.07
+  BIC-best: n_shells=1
+
+UGC08699 (T=2, V_flat=182, n_pts=37/41)
+  Burk: chi^2=111.56, chi^2_r=3.19, BIC=118.79
+  NFW:  chi^2=24.52, chi^2_r=0.70, BIC=31.74
+  FW1:  chi^2=17.36, chi^2_r=0.54, BIC=35.42
+  FW2:  chi^2=1.43, chi^2_r=0.05, BIC=30.32
+  BIC-best: n_shells=2
+
+UGC09037 (T=6, V_flat=152, n_pts=19/22)
+  Burk: chi^2=8.51, chi^2_r=0.50, BIC=14.40
+  NFW:  chi^2=20.71, chi^2_r=1.22, BIC=26.60
+  FW1:  chi^2=1.44, chi^2_r=0.10, BIC=16.17
+  FW2:  chi^2=0.68, chi^2_r=0.06, BIC=24.23
+  BIC-best: n_shells=0
+
+UGC09133 (T=2, V_flat=227, n_pts=64/68)
+  Burk: chi^2=671.71, chi^2_r=10.83, BIC=680.02
+  NFW:  chi^2=527.58, chi^2_r=8.51, BIC=535.90
+  FW1:  chi^2=199.91, chi^2_r=3.39, BIC=220.70
+  FW2:  chi^2=103.86, chi^2_r=1.85, BIC=137.13
+  BIC-best: n_shells=2
+
+UGC10310 (T=9, V_flat=71, n_pts=7/7)
+  Burk: chi^2=0.47, chi^2_r=0.09, BIC=4.36
+  NFW:  chi^2=2.84, chi^2_r=0.57, BIC=6.74
+  FW1:  chi^2=0.02, chi^2_r=0.01, BIC=9.75
+  FW2:  chi^2=0.03, chi^2_r=0.03, BIC=15.60
+  BIC-best: n_shells=0
+
+UGC11455 (T=6, V_flat=269, n_pts=33/36)
+  Burk: chi^2=56.91, chi^2_r=1.84, BIC=63.90
+  NFW:  chi^2=52.27, chi^2_r=1.69, BIC=59.26
+  FW1:  chi^2=39.32, chi^2_r=1.40, BIC=56.80
+  FW2:  chi^2=31.12, chi^2_r=1.24, BIC=59.09
+  BIC-best: n_shells=1
+
+UGC11914 (T=2, V_flat=288, n_pts=63/65)
+  Burk: chi^2=499.37, chi^2_r=8.19, BIC=507.65
+  NFW:  chi^2=302.27, chi^2_r=4.96, BIC=310.56
+  FW1:  chi^2=9.00, chi^2_r=0.16, BIC=29.72
+  FW2:  chi^2=7.39, chi^2_r=0.13, BIC=40.53
+  BIC-best: n_shells=1
+
+UGC12506 (T=6, V_flat=234, n_pts=31/31)
+  Burk: chi^2=21.00, chi^2_r=0.72, BIC=27.87
+  NFW:  chi^2=4.86, chi^2_r=0.17, BIC=11.73
+  FW1:  chi^2=1.85, chi^2_r=0.07, BIC=19.02
+  FW2:  chi^2=1.31, chi^2_r=0.06, BIC=28.78
+  BIC-best: n_shells=1
+
+UGC12632 (T=9, V_flat=72, n_pts=15/15)
+  Burk: chi^2=0.85, chi^2_r=0.07, BIC=6.27
+  NFW:  chi^2=4.43, chi^2_r=0.34, BIC=9.84
+  FW1:  chi^2=0.42, chi^2_r=0.04, BIC=13.96
+  FW2:  chi^2=0.22, chi^2_r=0.03, BIC=21.89
+  BIC-best: n_shells=0
+
+UGCA442 (T=9, V_flat=56, n_pts=8/8)
+  Burk: chi^2=3.68, chi^2_r=0.61, BIC=7.84
+  NFW:  chi^2=11.72, chi^2_r=1.95, BIC=15.88
+  FW1:  chi^2=0.12, chi^2_r=0.04, BIC=10.51
+  FW2:  chi^2=0.12, chi^2_r=0.12, BIC=16.75
+  BIC-best: n_shells=0
+
+Finished: 2026-05-20 08:35:01
+Total elapsed: 15.8 minutes
+Galaxies fit: 102/102
